@@ -1,0 +1,1 @@
+This Java program uses a CLI to allow users to enter Students, Courses and assign a Student to a Course to create a Grade object.  The user can then grade the Student, updating the Grade object to include the new grade value.
